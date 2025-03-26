@@ -1,8 +1,8 @@
-Privacy Policy for [Your Game Name]
-Effective Date: [Date]
-Last Updated: [Date]
+Privacy Policy for [Kidzo]
+Effective Date: [26/03/2025]
+Last Updated: [26/03/2025]
 
-[Your Game Name] ("we," "our," or "us") is committed to protecting the privacy of children and all users. This Privacy Policy explains how we collect, use, store, and protect personal data in compliance with COPPA (Children’s Online Privacy Protection Act) and GDPR (General Data Protection Regulation).
+[Kidzo] ("we," "our," or "us") is committed to protecting the privacy of children and all users. This Privacy Policy explains how we collect, use, store, and protect personal data in compliance with COPPA (Children’s Online Privacy Protection Act) and GDPR (General Data Protection Regulation).
 
 1. Information We Collect
 We collect the following data to provide a safe and personalized gaming experience:
@@ -64,10 +64,8 @@ We may update this Privacy Policy. If changes are significant, we will notify us
 📧 Email notification
 📢 In-game notice
 
-Last updated: [Date]
-
 8. Contact Us
 If you have any questions about this Privacy Policy, contact us at:
-📩 Email: [Your Support Email]
-🌍 Website: [Your Website (if applicable)]
+📩 This GitAccount
+
 
